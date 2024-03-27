@@ -1,0 +1,232 @@
+Bounding Box: [[195, 11], [381, 11], [381, 56], [195, 56]]
+Recognized Text: New Label
+Confidence Score: 0.928086552622159
+
+Bounding Box: [[402, 12], [707, 12], [707, 56], [402, 56]]
+Recognized Text: What' s Different?
+Confidence Score: 0.705338874790504
+
+Bounding Box: [[266, 116], [640, 116], [640, 166], [266, 166]]
+Recognized Text: Nutrition Facts
+Confidence Score: 0.9999423904513945
+
+Bounding Box: [[80, 160], [209, 160], [209, 198], [80, 198]]
+Recognized Text: Servings:
+Confidence Score: 0.9950467935741606
+
+Bounding Box: [[266, 170], [518, 170], [518, 200], [266, 200]]
+Recognized Text: 8 servings per container
+Confidence Score: 0.9943925101485037
+
+Bounding Box: [[694, 176], [867, 176], [867, 213], [694, 213]]
+Recognized Text: Serving sizes
+Confidence Score: 0.9939790430413477
+
+Bounding Box: [[119, 192], [209, 192], [209, 230], [119, 230]]
+Recognized Text: larger;
+Confidence Score: 0.9798801192071859
+
+Bounding Box: [[262, 189], [423, 189], [423, 225], [262, 225]]
+Recognized Text: Serving size
+Confidence Score: 0.8846886511804793
+
+Bounding Box: [[466, 196], [638, 196], [638, 226], [466, 226]]
+Recognized Text: 2/3 cup (s5g)
+Confidence Score: 0.7255584103300705
+
+Bounding Box: [[696, 210], [804, 210], [804, 242], [696, 242]]
+Recognized Text: updated
+Confidence Score: 0.9999986933503116
+
+Bounding Box: [[61, 225], [209, 225], [209, 261], [61, 261]]
+Recognized Text: bolder type
+Confidence Score: 0.9995022664281206
+
+Bounding Box: [[266, 246], [470, 246], [470, 274], [266, 274]]
+Recognized Text: Amount per serving
+Confidence Score: 0.7282418440884991
+
+Bounding Box: [[696, 260], [814, 260], [814, 290], [696, 290]]
+Recognized Text: Calories:
+Confidence Score: 0.9998937419638378
+
+Bounding Box: [[265, 269], [441, 269], [441, 311], [265, 311]]
+Recognized Text: Calories
+Confidence Score: 0.898557704069258
+
+Bounding Box: [[530, 262], [640, 262], [640, 316], [530, 316]]
+Recognized Text: 230
+Confidence Score: 0.9999940121825609
+
+Bounding Box: [[692, 290], [835, 290], [835, 326], [692, 326]]
+Recognized Text: larger type
+Confidence Score: 0.9989199070930361
+
+Bounding Box: [[499, 327], [633, 327], [633, 347], [499, 347]]
+Recognized Text: % Daily Value *
+Confidence Score: 0.5167159656933477
+
+Bounding Box: [[268, 352], [392, 352], [392, 378], [268, 378]]
+Recognized Text: Total Fat 8g
+Confidence Score: 0.9875733635972094
+
+Bounding Box: [[587, 353], [633, 353], [633, 373], [587, 373]]
+Recognized Text: 10%
+Confidence Score: 0.9978221280793061
+
+Bounding Box: [[693, 359], [855, 359], [855, 397], [693, 397]]
+Recognized Text: Daily Values
+Confidence Score: 0.9999810040256669
+
+Bounding Box: [[290, 382], [434, 382], [434, 406], [290, 406]]
+Recognized Text: Saturated Fat 1g
+Confidence Score: 0.8753536000965837
+
+Bounding Box: [[597, 383], [633, 383], [633, 403], [597, 403]]
+Recognized Text: 5%
+Confidence Score: 0.5849636316108656
+
+Bounding Box: [[290, 410], [402, 410], [402, 436], [290, 436]]
+Recognized Text: Trans Fat 0g
+Confidence Score: 0.6665720595388004
+
+Bounding Box: [[696, 394], [806, 394], [806, 426], [696, 426]]
+Recognized Text: Updated
+Confidence Score: 0.7818077872932443
+
+Bounding Box: [[266, 439], [431, 439], [431, 466], [266, 466]]
+Recognized Text: Cholesterol Omg
+Confidence Score: 0.998796931418585
+
+Bounding Box: [[611, 441], [633, 441], [633, 461], [611, 461]]
+Recognized Text: %
+Confidence Score: 0.9955036038072684
+
+Bounding Box: [[268, 465], [411, 465], [411, 494], [268, 494]]
+Recognized Text: Sodium 160mg
+Confidence Score: 0.5129192905810812
+
+Bounding Box: [[599, 471], [633, 471], [633, 491], [599, 491]]
+Recognized Text: 7%
+Confidence Score: 0.6833963936712184
+
+Bounding Box: [[268, 496], [506, 496], [506, 522], [268, 522]]
+Recognized Text: Total Carbohydrate 37g
+Confidence Score: 0.7650645925132962
+
+Bounding Box: [[587, 499], [633, 499], [633, 519], [587, 519]]
+Recognized Text: 13%
+Confidence Score: 0.9755470121478589
+
+Bounding Box: [[290, 524], [428, 524], [428, 554], [290, 554]]
+Recognized Text: Dietary Fiber 4g
+Confidence Score: 0.8672425492968491
+
+Bounding Box: [[587, 529], [633, 529], [633, 549], [587, 549]]
+Recognized Text: 14%
+Confidence Score: 0.9964385797670017
+
+Bounding Box: [[292, 555], [438, 555], [438, 583], [292, 583]]
+Recognized Text: Total Sugars 12g
+Confidence Score: 0.7208222064374304
+
+Bounding Box: [[140, 568], [206, 568], [206, 594], [140, 594]]
+Recognized Text: New:
+Confidence Score: 0.9994949102401733
+
+Bounding Box: [[314, 585], [548, 585], [548, 612], [314, 612]]
+Recognized Text: Includes 10g Added Sugars
+Confidence Score: 0.9901849274463881
+
+Bounding Box: [[585, 587], [633, 587], [633, 607], [585, 607]]
+Recognized Text: 20%
+Confidence Score: 0.6360943030392515
+
+Bounding Box: [[32, 598], [206, 598], [206, 630], [32, 630]]
+Recognized Text: added sugars
+Confidence Score: 0.9013772987525988
+
+Bounding Box: [[268, 612], [374, 612], [374, 638], [268, 638]]
+Recognized Text: Protein 3g
+Confidence Score: 0.8827390885541957
+
+Bounding Box: [[106, 651], [209, 651], [209, 688], [106, 688]]
+Recognized Text: Change
+Confidence Score: 0.9999924079432909
+
+Bounding Box: [[268, 659], [405, 659], [405, 686], [268, 686]]
+Recognized Text: Vitamin D 2mcg
+Confidence Score: 0.5323457238423459
+
+Bounding Box: [[593, 661], [633, 661], [633, 681], [593, 681]]
+Recognized Text: 10%
+Confidence Score: 0.9895733632335676
+
+Bounding Box: [[698, 658], [780, 658], [780, 684], [698, 684]]
+Recognized Text: Actual
+Confidence Score: 0.9999967879775886
+
+Bounding Box: [[102, 686], [208, 686], [208, 714], [102, 714]]
+Recognized Text: in some
+Confidence Score: 0.7588408246617302
+
+Bounding Box: [[268, 687], [403, 687], [403, 716], [268, 716]]
+Recognized Text: Calcium 260mg
+Confidence Score: 0.9922751357229577
+
+Bounding Box: [[592, 688], [636, 688], [636, 712], [592, 712]]
+Recognized Text: 20%
+Confidence Score: 0.9885020255803786
+
+Bounding Box: [[694, 690], [808, 690], [808, 716], [694, 716]]
+Recognized Text: amounts
+Confidence Score: 0.9999904028704782
+
+Bounding Box: [[92, 716], [208, 716], [208, 746], [92, 746]]
+Recognized Text: nutrients
+Confidence Score: 0.9999906619171852
+
+Bounding Box: [[268, 717], [349, 717], [349, 745], [268, 745]]
+Recognized Text: Iron 8mg
+Confidence Score: 0.9567373692771823
+
+Bounding Box: [[593, 719], [635, 719], [635, 739], [593, 739]]
+Recognized Text: 45%
+Confidence Score: 0.9689694900834764
+
+Bounding Box: [[696, 718], [808, 718], [808, 748], [696, 748]]
+Recognized Text: declared
+Confidence Score: 0.9999895095550071
+
+Bounding Box: [[94, 744], [209, 744], [209, 782], [94, 782]]
+Recognized Text: required
+Confidence Score: 0.9999986091535985
+
+Bounding Box: [[268, 745], [423, 745], [423, 774], [268, 774]]
+Recognized Text: Potassium 240mg
+Confidence Score: 0.961225978069983
+
+Bounding Box: [[277, 789], [627, 789], [627, 807], [277, 807]]
+Recognized Text: The % Daily Value (DV) tells you how much a nutrient in
+Confidence Score: 0.573690253641228
+
+Bounding Box: [[696, 781], [754, 781], [754, 810], [696, 810]]
+Recognized Text: New
+Confidence Score: 0.9999927044989317
+
+Bounding Box: [[289, 807], [469, 807], [469, 825], [289, 825]]
+Recognized Text: serving of food contributes to
+Confidence Score: 0.7636438062841694
+
+Bounding Box: [[481, 807], [633, 807], [633, 823], [481, 823]]
+Recognized Text: daily diet_ 2,000 calories
+Confidence Score: 0.6490509852019896
+
+Bounding Box: [[289, 823], [531, 823], [531, 841], [289, 841]]
+Recognized Text: day is used for general nutrition advice.
+Confidence Score: 0.7875802689577379
+
+Bounding Box: [[694, 814], [806, 814], [806, 842], [694, 842]]
+Recognized Text: footnote
+Confidence Score: 0.9998995198221038
+
